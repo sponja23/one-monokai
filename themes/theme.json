@@ -1,0 +1,22 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "My Neon Family",
+  "author": "sponja23",
+  "themes": [
+    {
+      "name": "Neon Dark",
+      "appearance": "dark",
+      "style": {
+        "background": "#0d0d0d",
+        "foreground": "#e0e0e0",
+        "syntax": {
+          "comment": { "color": "#6272a4", "font_style": "italic" },
+          "keyword": "#ff79c6",
+          "string": "#50fa7b",
+          "function": "#8be9fd",
+          "type": "#bd93f9"
+        }
+      }
+    }
+  ]
+}
