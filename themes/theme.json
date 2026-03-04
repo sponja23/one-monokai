@@ -120,8 +120,8 @@
         "hint": "#495162",
         "hint.background": null,
         "hint.border": null,
-        "ignored": "#6B717D",
-        "ignored.background": null,
+        "ignored": "#4b5263",
+        "ignored.background": "#4b52631a",
         "ignored.border": null,
         "info": "#528bff",
         "info.background": "#528bff1a",
@@ -144,6 +144,9 @@
         "warning": "#e5c07b",
         "warning.background": "#e5c07b1a",
         "warning.border": "#e5c07b",
+        "version_control.added": "#98c379",
+        "version_control.modified": "#e5c07b",
+        "version_control.deleted": "#e06c75",
         "syntax": {
           "attribute": {
             "color": "#98c379"
