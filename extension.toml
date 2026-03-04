@@ -1,7 +1,7 @@
 id = "one-monokai"
-name = "My Neon Theme"
+name = "One Monokai"
 version = "0.1.0"
 schema_version = 1
-authors = ["sponja23"]
-description = "A vibrant custom theme for Zed."
+authors = ["azemoh", "sponja23"]
+description = "One Monokai theme for Zed - a dark theme combining Atom's One Dark and Monokai."
 repository = "https://github.com/sponja23/one-monokai"
