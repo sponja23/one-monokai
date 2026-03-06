@@ -135,7 +135,7 @@
         "info": "#fce566",
         "info.background": "#1c1c1c",
         "info.border": "#0f0f0f",
-        "modified": "#fd9353",
+        "modified": "#e5c07b",
         "modified.background": "#1c1c1c",
         "modified.border": "#0f0f0f",
         "predictive": "#8b888f",
@@ -154,7 +154,7 @@
         "warning.background": "#1c1c1c",
         "warning.border": "#0f0f0f",
         "version_control.added": "#7bd88f",
-        "version_control.modified": "#fd9353",
+        "version_control.modified": "#e5c07b",
         "version_control.deleted": "#fc618d",
         "syntax": {
           "attribute": {
